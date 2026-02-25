@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Rover",
+  "base_artist": "S1mba",
+  "createdAt": "2026-02-25T02:56:13.129813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Range Rover Sports Truck",
+      "artist": "Lil Yachty feat. Lil Keed",
+      "has_synced": true,
+      "path": "select/01_Range_Rover_Sports_Truck_Lil_Yachty_feat._Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Range Rover Sports Truck (feat. Lil Keed)",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/02_Range_Rover_Sports_Truck_(feat._Lil_Keed)_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Rover - 1993 Remaster",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/03_The_Rover_-_1993_Remaster_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Rover",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/04_The_Rover_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Irish Rover",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/05_The_Irish_Rover_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Irish Rover (Traditional) (Bonus track)",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/06_The_Irish_Rover_(Traditional)_(Bonus_track)_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Wild Rover",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/07_The_Wild_Rover_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Wild Rover (Traditional) (Bonus track)",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/08_The_Wild_Rover_(Traditional)_(Bonus_track)_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Red Rover",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/09_Red_Rover_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Range Rover",
+      "artist": "Kamp!",
+      "has_synced": true,
+      "path": "select/10_Range_Rover_Kamp!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Rover",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/11_The_Rover_Great_White.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Old Rover",
+      "artist": "Mithotyn",
+      "has_synced": true,
+      "path": "select/12_The_Old_Rover_Mithotyn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Irish Rover (Bonus Track)",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/13_The_Irish_Rover_(Bonus_Track)_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Led Zeppelin Medley: The Rover / Achilles Last Stand / The Song Remains the Same (Live)",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/14_Led_Zeppelin_Medley__The_Rover___Achilles_Last_Stand___The_Song_Remains_the_Same_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Rover / Achilles Last Stand / The Song Remains the Same (Live, \"Uncovered\", 1995",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/15_The_Rover___Achilles_Last_Stand___The_Song_Remains_the_Same_(Live,__Uncovered_,__Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Rover \u0000 Achilles Last Stand \u0000 The Song Remains the Same",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/16_The_Rover_\u0000_Achilles_Last_Stand_\u0000_The_Song_Remains_the_Same_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Rover, Achilles Last Stand, The Song Remains The Same",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/17_The_Rover,_Achilles_Last_Stand,_The_Song_Remains_The_Same_Dream_Theater.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rover (feat. DTG)",
+      "artist": "S1mba",
+      "has_synced": false,
+      "path": "select/pl_01_Rover_(feat._DTG)_S1mba.txt"
+    }
+  ]
+}
